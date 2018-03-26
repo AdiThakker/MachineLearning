@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "ScrapLearningModel", "LearningModel\ScrapLearningModel.fsproj", "{77F94659-3353-4914-B620-52DC9D3DE354}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "ScrapPrediction", "ScrapPrediction\ScrapPrediction.fsproj", "{F7F9E1FB-8195-49E2-A550-90821E011445}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScrapStationConsole", "ScrapStationConsole\ScrapStationConsole.csproj", "{EC44AAB1-D6FF-4E31-9412-9A3AA2238680}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77F94659-3353-4914-B620-52DC9D3DE354}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77F94659-3353-4914-B620-52DC9D3DE354}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77F94659-3353-4914-B620-52DC9D3DE354}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77F94659-3353-4914-B620-52DC9D3DE354}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7F9E1FB-8195-49E2-A550-90821E011445}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7F9E1FB-8195-49E2-A550-90821E011445}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7F9E1FB-8195-49E2-A550-90821E011445}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7F9E1FB-8195-49E2-A550-90821E011445}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC44AAB1-D6FF-4E31-9412-9A3AA2238680}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC44AAB1-D6FF-4E31-9412-9A3AA2238680}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC44AAB1-D6FF-4E31-9412-9A3AA2238680}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC44AAB1-D6FF-4E31-9412-9A3AA2238680}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
